@@ -1,0 +1,16 @@
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.ConsoleApp\obj\Debug\ReportService.ConsoleApp.csproj.AssemblyReference.cache
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.ConsoleApp\obj\Debug\ReportService.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.ConsoleApp\obj\Debug\ReportService.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.ConsoleApp\bin\Debug\ReportService.ConsoleApp.exe.config
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.ConsoleApp\bin\Debug\ReportService.ConsoleApp.exe
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.ConsoleApp\bin\Debug\ReportService.ConsoleApp.pdb
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.ConsoleApp\bin\Debug\EmailSender.dll
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.ConsoleApp\bin\Debug\ReportService.Core.dll
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.ConsoleApp\bin\Debug\EmailSender.pdb
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.ConsoleApp\bin\Debug\ReportService.Core.pdb
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.ConsoleApp\obj\Debug\ReportService.ConsoleApp.csproj.CopyComplete
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.ConsoleApp\obj\Debug\ReportService.ConsoleApp.exe
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.ConsoleApp\obj\Debug\ReportService.ConsoleApp.pdb
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.ConsoleApp\bin\Debug\Cipher.dll
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.ConsoleApp\bin\Debug\Cipher.pdb
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.ConsoleApp\bin\Debug\App.config

@@ -1,0 +1,6 @@
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.Core\bin\Release\ReportService.Core.dll
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.Core\bin\Release\ReportService.Core.pdb
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.Core\obj\Release\ReportService.Core.csproj.AssemblyReference.cache
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.Core\obj\Release\ReportService.Core.csproj.CoreCompileInputs.cache
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.Core\obj\Release\ReportService.Core.dll
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\ReportService.Core\obj\Release\ReportService.Core.pdb

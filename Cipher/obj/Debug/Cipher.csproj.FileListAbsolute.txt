@@ -1,0 +1,6 @@
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\Cipher\bin\Debug\Cipher.dll
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\Cipher\bin\Debug\Cipher.pdb
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\Cipher\obj\Debug\Cipher.csproj.AssemblyReference.cache
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\Cipher\obj\Debug\Cipher.csproj.CoreCompileInputs.cache
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\Cipher\obj\Debug\Cipher.dll
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\Cipher\obj\Debug\Cipher.pdb

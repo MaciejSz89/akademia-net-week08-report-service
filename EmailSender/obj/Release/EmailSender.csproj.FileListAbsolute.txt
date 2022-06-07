@@ -1,0 +1,6 @@
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\EmailSender\bin\Release\EmailSender.dll
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\EmailSender\bin\Release\EmailSender.pdb
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\EmailSender\obj\Release\EmailSender.csproj.AssemblyReference.cache
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\EmailSender\obj\Release\EmailSender.csproj.CoreCompileInputs.cache
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\EmailSender\obj\Release\EmailSender.dll
+D:\Maciej\Programowanie\Akademia .NET\Week08\ReportService\EmailSender\obj\Release\EmailSender.pdb

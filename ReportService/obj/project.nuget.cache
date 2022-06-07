@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rDTVyOUyLR0jln91ZHIFFyIda5V4vPnp+pQWpSjOAIW8I8Qr5c8WwCpr3v7wuN4Oocwl9YVq9/N/QK0JeZmREQ==",
+  "success": true,
+  "projectFilePath": "D:\\Maciej\\Programowanie\\Akademia .NET\\Week08\\ReportService\\ReportService\\ReportService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maciej.szafranski\\.nuget\\packages\\nlog\\4.7.15\\nlog.4.7.15.nupkg.sha512",
+    "C:\\Users\\maciej.szafranski\\.nuget\\packages\\nlog.config\\4.7.15\\nlog.config.4.7.15.nupkg.sha512",
+    "C:\\Users\\maciej.szafranski\\.nuget\\packages\\nlog.schema\\4.7.15\\nlog.schema.4.7.15.nupkg.sha512"
+  ],
+  "logs": []
+}

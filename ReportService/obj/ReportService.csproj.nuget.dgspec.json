@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Maciej\\Programowanie\\Akademia .NET\\Week08\\ReportService\\ReportService\\ReportService.csproj": {}
+  },
+  "projects": {
+    "D:\\Maciej\\Programowanie\\Akademia .NET\\Week08\\ReportService\\Cipher\\Cipher.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Maciej\\Programowanie\\Akademia .NET\\Week08\\ReportService\\Cipher\\Cipher.csproj",
+        "projectName": "Cipher",
+        "projectPath": "D:\\Maciej\\Programowanie\\Akademia .NET\\Week08\\ReportService\\Cipher\\Cipher.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Maciej\\Programowanie\\Akademia .NET\\Week08\\ReportService\\EmailSender\\EmailSender.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Maciej\\Programowanie\\Akademia .NET\\Week08\\ReportService\\EmailSender\\EmailSender.csproj",
+        "projectName": "EmailSender",
+        "projectPath": "D:\\Maciej\\Programowanie\\Akademia .NET\\Week08\\ReportService\\EmailSender\\EmailSender.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Maciej\\Programowanie\\Akademia .NET\\Week08\\ReportService\\ReportService.Core\\ReportService.Core.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Maciej\\Programowanie\\Akademia .NET\\Week08\\ReportService\\ReportService.Core\\ReportService.Core.csproj",
+        "projectName": "ReportService.Core",
+        "projectPath": "D:\\Maciej\\Programowanie\\Akademia .NET\\Week08\\ReportService\\ReportService.Core\\ReportService.Core.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Maciej\\Programowanie\\Akademia .NET\\Week08\\ReportService\\ReportService\\ReportService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Maciej\\Programowanie\\Akademia .NET\\Week08\\ReportService\\ReportService\\ReportService.csproj",
+        "projectName": "ReportService",
+        "projectPath": "D:\\Maciej\\Programowanie\\Akademia .NET\\Week08\\ReportService\\ReportService\\ReportService.csproj",
+        "packagesPath": "C:\\Users\\maciej.szafranski\\.nuget\\packages\\",
+        "outputPath": "D:\\Maciej\\Programowanie\\Akademia .NET\\Week08\\ReportService\\ReportService\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\maciej.szafranski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Maciej\\Programowanie\\Akademia .NET\\Week08\\ReportService\\Cipher\\Cipher.csproj": {
+                "projectPath": "D:\\Maciej\\Programowanie\\Akademia .NET\\Week08\\ReportService\\Cipher\\Cipher.csproj"
+              },
+              "D:\\Maciej\\Programowanie\\Akademia .NET\\Week08\\ReportService\\EmailSender\\EmailSender.csproj": {
+                "projectPath": "D:\\Maciej\\Programowanie\\Akademia .NET\\Week08\\ReportService\\EmailSender\\EmailSender.csproj"
+              },
+              "D:\\Maciej\\Programowanie\\Akademia .NET\\Week08\\ReportService\\ReportService.Core\\ReportService.Core.csproj": {
+                "projectPath": "D:\\Maciej\\Programowanie\\Akademia .NET\\Week08\\ReportService\\ReportService.Core\\ReportService.Core.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "NLog.Config": {
+              "target": "Package",
+              "version": "[4.7.15, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
