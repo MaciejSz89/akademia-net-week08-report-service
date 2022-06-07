@@ -19,7 +19,7 @@ namespace ReportService
     public partial class ReportService : ServiceBase
     {
         private static readonly NLog.Logger Logger = NLog.LogManager.GetCurrentClassLogger();
-        private readonly int _sendHour = 8;
+        private readonly int _sendHour;
         private readonly int _intervalInMinutes;
         private readonly bool _sendingReportsEnable;
         private Timer _timer;
